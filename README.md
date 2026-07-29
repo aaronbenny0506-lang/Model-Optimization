@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Summary
 Customer retention is one of the key metrics for subscription-based business models. Acquiring new customers is often significantly more expensive than retaining existing ones. 
 
 This project builds, optimizes, and evaluates Machine Learning classification models to predict customer churn using the **Customer Churn Dataset** (~505,207 total entries). By identifying high-risk customers early and understanding the key drivers behind churn, business teams can proactively deploy retention campaigns and minimize revenue loss.
